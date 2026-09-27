@@ -5,6 +5,7 @@ import Playgrounds
 // 클로저의 타입 생략
     
     
+    
     let array = [1, 2, 3, 4, 5]
     
     // 1. 매개변수 타입 생략
